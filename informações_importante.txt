@@ -1,5 +1,5 @@
 
-instale a biblioteca tkinter
+instale a biblioteca tkinter caso voçe não a tenha
 - Digite no terminal do vscode ou do Pycharme seguinte comando
 - pip install tkinter
 
