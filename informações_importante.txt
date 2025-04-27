@@ -1,0 +1,8 @@
+
+instale a biblioteca tkinter
+- Digite no terminal do vscode ou do Pycharme seguinte comando
+- pip install tkinter
+
+logo apos execute o arquivo main.py
+ - opicional: passa como paramentro o nome do jogador1 e no outro o jogador 2 na função rodar
+ - ex: JOGO = jogo('j1', 'j2')  
