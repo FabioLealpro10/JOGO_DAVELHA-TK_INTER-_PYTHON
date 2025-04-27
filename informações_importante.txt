@@ -4,5 +4,5 @@ instale a biblioteca tkinter
 - pip install tkinter
 
 logo apos execute o arquivo main.py
- - opicional: passa como paramentro o nome do jogador1 e no outro o jogador 2 na função rodar
- - ex: JOGO = jogo('j1', 'j2')  
+ - opicional: passe como paramentro o nome do jogador1 e do jogador 2 na função rodar
+ - ex: JOGO = jogo('j1', 'j2') assim o jogo ficará mas personalizado
